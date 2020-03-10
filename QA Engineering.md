@@ -1,3 +1,5 @@
+Referrence : https://www.altexsoft.com/blog/engineering/qa-engineering-roles-skills-tools-and-responsibilities-within-a-testing-team/
+
 ### QA Engineering Roles: Skills, Tools, and Responsibilities in a Testing Team
 
 The quality assurance engineer is vital to every tech product release.
