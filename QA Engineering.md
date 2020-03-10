@@ -42,3 +42,5 @@ Skills | * Item 1 |Automation QA Engineer | QA Lead
          * Item 2 
 Responsibilities | Manual QA Engineer |Automation QA Engineer | QA Lead
 Tools| Manual QA Engineer |Automation QA Engineer | QA Lead
+
+![QA_Roles](https://content.altexsoft.com/media/2018/12/Screenshot_7.png)
