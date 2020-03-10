@@ -17,6 +17,8 @@ experience and give a rough idea of their competence.
 
 ## Most popular QA job titles according to the STATE OF TESTING REPORT 2018 by PractiTest
 
+![QA_Jobs](https://content.altexsoft.com/media/2018/12/Screenshot_3.png)
+
 * Test Engineers/QA Engineers (32%)
 * Test Leads / Managers / Directors (24%)
 * Testers / Test Analysts (12%)
@@ -33,14 +35,8 @@ experience and give a rough idea of their competence.
 * Other (6.5%)
 
 
-MAIN SOFTWARE TESTING ROLES
-
-Roles | Manual QA Engineer |Automation QA Engineer | QA Lead
------------- | ------------- | ------------- | -------------
-Core function | Manual QA Engineer |Automation QA Engineer | QA Lead
-Skills | * Item 1 |Automation QA Engineer | QA Lead
-         * Item 2 
-Responsibilities | Manual QA Engineer |Automation QA Engineer | QA Lead
-Tools| Manual QA Engineer |Automation QA Engineer | QA Lead
+Analysis On SOFTWARE TESTING ROLES
 
 ![QA_Roles](https://content.altexsoft.com/media/2018/12/Screenshot_7.png)
+
+
