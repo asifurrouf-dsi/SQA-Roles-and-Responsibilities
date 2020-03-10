@@ -46,4 +46,31 @@ Per job data from the Bureau of Labor Statistics, computer systems analysts (inc
 Full benefits packages are offered to QA automation engineers. Most employers provide full-time QA automation engineers with health, dental, life, and vision insurance benefits, along with retirement options. After three or more months of employment, QA automation engineers also receive vacation and sick days. Some large companies offer extra perks to QA automation engineers, such as free meals and gym memberships.
 
 Referrence: https://www.jobhero.com/qa-automation-engineer-job-description/
+
+
+## Some More Notes
+
+1. Selection or identification of test cases for automation from existing test case documentation.
+
+2. Applying Designing and Test Automation Strategy Document.
+
+3. Creating an automation test plan and getting approval.
+
+4. Configure Test Environment for setup.
+
+5. Participation in Test Environmental Setup with IDE.
+
+6. Automation framework design and implementation according to project structure.
+
+7. Creating, Enhancing, Debugging and Running Test Cases.
+
+8. Organizing, monitoring defect management process Handling changes and conducting regression tests.
+
+9. Find solutions for issues related to object identity issues and error handling.
+
+10. Coordination of the members of the Test team and the development team to solve the issues.
+
+11. Interaction with the people of the client side to solve problems and update the situation.
+
+12. Create a software defect tracking report entire project release status to stakeholders.
  
