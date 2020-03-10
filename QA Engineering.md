@@ -38,6 +38,7 @@ MAIN SOFTWARE TESTING ROLES
 Roles | Manual QA Engineer |Automation QA Engineer | QA Lead
 ------------ | ------------- | ------------- | -------------
 Core function | Manual QA Engineer |Automation QA Engineer | QA Lead
-Skills | * Item 1 * Item 2 |Automation QA Engineer | QA Lead
+Skills | * Item 1 |Automation QA Engineer | QA Lead
+         * Item 2 
 Responsibilities | Manual QA Engineer |Automation QA Engineer | QA Lead
 Tools| Manual QA Engineer |Automation QA Engineer | QA Lead
