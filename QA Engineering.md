@@ -15,10 +15,7 @@ However, this array of unique software testing roles ends up having similar resp
 Different titles may actually have a practical use for a large-scale team to indicate co-workers’ 
 experience and give a rough idea of their competence.
 
-Test Engineer | Second Header | Second Header | Second Header | Second Header
------------- | ------------- | ------------- | ------------- | -------------
-Test Engineer | Second Header | Second Header | Second Header | Second Header
------------- | ------------- | ------------- | ------------- | -------------
 
-
-
+* Test Engineers/QA Engineers (32%)
+* Test Leads / Managers / Directors (24%)
+* Testers / Test Analysts 
